@@ -1549,3 +1549,11 @@ etc/wifi/WCNSS_qcom_cfg.ini
 etc/wifi/fstman.ini
 etc/wifi/p2p_supplicant_overlay.conf
 etc/wifi/wpa_supplicant_overlay.conf
+
+#Camera
+bin/mm-qcamera-app 
+lib/hw/camera.msm8937.so 
+lib/libmm-qcamera.so
+lib/libmmcamera_interface.so 
+lib/libmmjpeg_interface.so
+lib/libqomx_core.so
